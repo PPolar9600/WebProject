@@ -1,0 +1,24 @@
+#F1DDD6 background
+#DBEFE1 Tap
+#5F7B67 font
+
+#F3F0FF box welcome
+#FFFFDB box input
+
+//log in
+#FFF7AD yellow
+#FFA9F9 pink
+
+//create an account
+#CDFFD8 green
+#94B9FF blue
+
+//กรอบ
+#FECDDC pink sun
+#FFDE59 yellow emoji
+#5F7B67 font
+
+//font
+https://www.dafont.com/pantelleria.font
+//change background color
+https://www.geeksforgeeks.org/design-background-color-changer-using-html-css-and-javascript/
